@@ -1,10 +1,3 @@
-<a href="https://dev-aiden.com/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=blog style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/gwangyong-jeong" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
 ### Hi there 👋
 
 ## Github Stats  
