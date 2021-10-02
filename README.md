@@ -5,7 +5,7 @@
 	
 ### Skills
 <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring%20Data%20Jpa-6db33f?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6db33f?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
